@@ -1,5 +1,7 @@
 <!-- HERO BANNER -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md%20Shakil%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shakil218/shakil218/main/Gemini_Generated_Image_pq93vkpq93vkpq93_cleanup.png" width="100%" />
+</p>
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
