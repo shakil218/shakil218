@@ -5,11 +5,11 @@
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0D1B2A7&center=true&vCenter=true&width=700&lines=Hello+there!+👋,;I'm+Shakil+...;💻+Frontend+Developer;⚛️+React+Enthusiast;🚀+Building+Modern+Web+Apps;🌱+Exploring+Next.js+%26+TypeScript;Nice+to+meet+you!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0D1B2A7&center=true&vCenter=true&width=700&lines=Hello+there!+👋,;I'm+Shakil+...;💻+Frontend+Developer;⚛️+React+Enthusiast;🚀+Building+Modern+Web+Apps;🧠+Exploring+Next.js+%26+TypeScript;Nice+to+meet+you!" />
 </h1>
 
 <p align="center">
-  React Specialist 🚀 | Building modern & scalable web applications 🌱 <br/>
+  React Specialist 🚀 | Building modern & scalable web applications 🧠 <br/>
   Exploring Next.js, TypeScript, Node.js & Express.js
 </p>
 
