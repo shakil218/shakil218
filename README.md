@@ -39,6 +39,53 @@
 
 ---
 
+## 🚀 Featured Projects
+<img width="1900" height="709" alt="image" src="https://github.com/user-attachments/assets/6b42b83e-9dfa-4913-9ff1-c2c42d47aab3" />
+
+### 🐾 PetNest – Full-Stack Pet Adoption Platform                                                                                                                  
+
+**Tech Stack:** Next.js, MongoDB, Express.js, Better Auth, Tailwind CSS, HeroUI
+
+🔗 **Live Demo:** [PetNest](https://petnest-adoption-portal.vercel.app/)
+💻 **Client:** [PetNest-Client](https://github.com/shakil218/petnest-platform-client) | **Server:** [PetNest-Server](https://github.com/shakil218/petNest-platform-server)
+
+* Built a full-stack pet adoption platform where users can browse pets, view details, submit adoption requests, and manage pet listings.
+* Developed RESTful APIs with MongoDB, implementing search, filtering, authentication, protected routes, and dynamic data fetching.
+* Enhanced user experience with theme switching, loading skeletons, reusable components, animations, and mobile-first responsive design.
+
+---
+
+<img width="1883" height="869" alt="image" src="https://github.com/user-attachments/assets/46459835-d623-4327-beb7-5648e37f18ae" />
+
+### 🎓 SkillSphere – Full-Stack E-Learning Platform
+
+**Tech Stack:** Next.js, React, MongoDB, Better Auth, HeroUI
+
+🔗 **Live Demo:** [SkillSphere](https://skillsphere-online-learning-web.vercel.app/)
+💻 **GitHub:** [Repository](https://github.com/shakil218/skillsphere-online-learning-platform)
+
+* Built a responsive online learning platform featuring course discovery, instructor profiles, course details, and enrollment workflows.
+* Implemented secure authentication and session management using Better Auth with protected routes.
+* Designed a scalable component-based architecture with HeroUI and Framer Motion, improving maintainability and user engagement.
+
+---
+
+<img width="1886" height="853" alt="image" src="https://github.com/user-attachments/assets/11c27972-8c44-4ce4-be75-50f95a8488f3" />
+
+### 📰 Dragon News – News Aggregation Platform
+
+**Tech Stack:** Next.js, React, MongoDB, Better Auth, Tailwind CSS
+
+🔗 **Live Demo:** [Dragon News Portal](https://dragon-news-with-next-js.vercel.app/)
+💻 **GitHub:** [Repository](https://github.com/shakil218/dragon-news-with-next.js)
+
+* Developed a modern news platform with categorized news feeds, breaking news highlights, and dynamic article pages.
+* Implemented secure authentication and authorization using Better Auth with MongoDB.
+* Optimized performance and SEO through reusable components, efficient rendering strategies, and Next.js architecture.
+
+
+---
+
 ## 📫 Reach Me Out
 - Email: mdshakilislamsagor218@gmail.com 
 - LinkedIn, Twitter (see badges above)
