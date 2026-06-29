@@ -1,16 +1,22 @@
+
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shakil218/shakil218/main/Gemini_Generated_Image_pq93vkpq93vkpq93_cleanup.png" width="100%" alt="Md Shakil Islam Banner" />
+  <img width="1983" height="793" alt="ChatGPT Image Jun 29, 2026, 08_03_35 PM" src="https://github.com/user-attachments/assets/34cab333-4182-412e-ab89-281e9e4e64c0" />
+
 </p>
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&weight=700&duration=4000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hello+there!+👋;I'm+Md+Shakil+Islam;💻+Frontend+Developer;⚛️+React+Enthusiast;🚀+Building+Modern+Web+Apps;🧠+Exploring+Next.js+%26+TypeScript;Nice+to+meet+you!" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=25&weight=700&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Md+Shakil+Islam+Sagor;💻+Full+Stack+Developer+(MERN+Stack);⚡+React.js+•+Next.js+•+TypeScript;🔧+Node.js+•+Express.js+•+MongoDB;🚀+Building+Modern+Scalable+Web+Applications;🤖+AI-Assisted+Developer;Open+to+Full+Stack+Developer+Opportunities"
+    alt="Typing SVG"
+  />
 </h1>
 
+
 <p align="center">
-  <strong>Frontend Developer & React Specialist</strong> 🚀 <br/>
-  Building highly responsive, accessible, and scalable full-stack web applications.
+  <strong>Full Stack (MERN Stack) Developer</strong> 🚀 <br/>
+  Crafting modern, scalable, and user-centric web applications from frontend interfaces to backend APIs.
 </p>
 
 ---
@@ -37,10 +43,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I build real-world, full-stack applications focusing heavily on modular component design, clean state management, and seamless API integrations.
-- ⚡ **How I work:** I prioritize mobile-first responsive layouts, semantic HTML architectures, clean route protection, and optimized performance.
-- 🧠 I am actively sharpening my expertise in **Next.js**, **TypeScript**, and full-stack system architecture.
-- 💼 **Open to:** Junior Frontend Developer, MERN Stack Internships, and Collaborative Full-Stack Web Development Roles.
+
+- 🔭 I build modern, production-ready **full-stack web applications** using the **MERN Stack**, focusing on scalable architecture, reusable components, and secure RESTful APIs.
+- ⚡ **How I work:** I prioritize clean code, mobile-first responsive design, authentication, role-based access control, API integration, and performance optimization.
+- 🧠 I continuously improve my expertise in **React.js**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, and modern full-stack development practices.
+- 🤖 I leverage AI tools like **ChatGPT**, **GitHub Copilot**, **Cursor**, and **Gemini** to enhance productivity while ensuring every solution is manually reviewed and optimized.
+- 💼 **Open to:** Junior **Full Stack (MERN Stack) Developer**, **Frontend Developer**, and **Software Engineer** opportunities where I can contribute, learn, and build impactful products.
 
 ---
 
@@ -50,19 +58,30 @@
   <tr>
     <td align="center" width="25%"><strong>Frontend</strong></td>
     <td align="center" width="25%"><strong>Backend & Database</strong></td>
-    <td align="center" width="25%"><strong>Auth & UI Libraries</strong></td>
+    <td align="center" width="25%"><strong>Authentication & UI</strong></td>
     <td align="center" width="25%"><strong>Tools & Platforms</strong></td>
   </tr>
   <tr>
-    <td>JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS</td>
-    <td>Node.js, Express.js, MongoDB, RESTful APIs</td>
-    <td>Better Auth, HeroUI, Firebase, DaisyUI, Framer Motion</td>
-    <td>Git, GitHub, Figma, NPM, Postman, Vercel, VS Code</td>
+    <td>
+      HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, React Router, Context API, TanStack Query, Tailwind CSS
+    </td>
+    <td>
+      Node.js, Express.js, MongoDB, RESTful APIs, CRUD Operations, Server-side Validation
+    </td>
+    <td>
+      Better Auth, Firebase Authentication, JWT, HeroUI, Material UI, Bootstrap, DaisyUI, Framer Motion, React Hook Form
+    </td>
+    <td>
+      Git, GitHub, VS Code, Postman, Figma, Chrome DevTools, npm, Vercel, Netlify, ESLint, Prettier
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,npm,figma" height="40"/>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,materialui,git,github,postman,figma,vscode,vercel,netlify,npm&perline=21"
+    width="900"
+  />
 </p>
 
 ---
@@ -71,9 +90,9 @@
 
 | Project Name | Live Demo | Code Repositories | Core Stack | Key Highlights |
 | :--- | :--- | :--- | :--- | :--- |
-| **🐾 PetNest** | [Live Link](https://petnest-adoption-portal.vercel.app/) | [Client](https://github.com/shakil218/petnest-platform-client) / [Server](https://github.com/shakil218/petNest-platform-server) | Next.js, MongoDB, Express, Better Auth, HeroUI | Full CRUD adoption tracking, search filters, dynamic theme switching. |
-| **🎓 SkillSphere** | [Live Link](https://skillsphere-online-learning-web.vercel.app/) | [Repository](https://github.com/shakil218/skillsphere-online-learning-platform) | Next.js, React, MongoDB, Better Auth, HeroUI | Course discovery dashboard, secure session state, Framer Motion animations. |
-| **📰 Dragon News** | [Live Link](https://dragon-news-with-next-js.vercel.app/) | [Repository](https://github.com/shakil218/dragon-news-with-next.js) | Next.js, React, MongoDB, Better Auth, Tailwind | Categorized breaking news feeds, dynamic article routing, optimized SEO. |
+| **🎫 TicketBari** | [Live Link](https://ticketbari-sepia.vercel.app/) | [Client](https://github.com/shakil218/ticketbari) / [Server](https://github.com/shakil218/ticketbari-server) | Next.js, Node.js, Express.js, MongoDB, Better Auth, Stripe, Tailwind CSS, HeroUI | Role-based dashboards (User, Vendor & Admin), Stripe payments, secure authentication, CRUD operations, ticket booking workflow, revenue tracking, search & filtering, responsive UI. |
+| **🐾 PetNest** | [Live Link](https://petnest-adoption-portal.vercel.app/) | [Client](https://github.com/shakil218/petnest-platform-client) / [Server](https://github.com/shakil218/petNest-platform-server) | Next.js, MongoDB, Express.js, Better Auth, Tailwind CSS, HeroUI | Full-stack pet adoption platform with authentication, CRUD operations, search & filtering, adoption requests, theme switching, and responsive design. |
+| **🎓 SkillSphere** | [Live Link](https://skillsphere-online-learning-web.vercel.app/) | [Repository](https://github.com/shakil218/skillsphere-online-learning-platform) | Next.js, React.js, MongoDB, Better Auth, HeroUI | Online learning platform featuring course discovery, secure authentication, instructor profiles, enrollment workflows, responsive UI, and Framer Motion animations. |
 
 ---
 
@@ -110,10 +129,67 @@ I am actively looking for opportunities to grow alongside experienced engineerin
 
 ```javascript
 const shakil = {
+  name: "Md. Shakil Islam",
   pronouns: "he/him",
-  role: "Frontend Developer & MERN Explorer",
-  specialization: "React / Next.js Ecosystem",
-  focus: ["Clean UI/UX", "Responsive Design", "Secure Route Protection"],
-  currentLearning: ["TypeScript", "Full-Stack Performance Optimization"],
-  challenge: "Building high-performance apps that load in under 2 seconds"
+
+  role: "Full Stack Developer (MERN Stack)",
+
+  specialization:
+    "Building scalable, secure, and responsive web applications",
+
+  techStack: {
+    frontend: [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "HeroUI"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "RESTful APIs"
+    ],
+
+    authentication: [
+      "Better Auth",
+      "Firebase",
+      "JWT"
+    ]
+  },
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman",
+    "Figma",
+    "Vercel"
+  ],
+
+  aiWorkflow: [
+    "ChatGPT",
+    "GitHub Copilot",
+    "Cursor",
+    "Gemini"
+  ],
+
+  focus: [
+    "Full Stack Development",
+    "REST API Integration",
+    "Authentication & Authorization",
+    "Responsive UI/UX",
+    "Clean Architecture"
+  ],
+
+  currentLearning: [
+    "Advanced TypeScript",
+    "System Design",
+    "Performance Optimization"
+  ],
+
+  challenge:
+    "Building production-ready MERN applications with scalability, security, and excellent user experience."
 };
