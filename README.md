@@ -119,7 +119,7 @@
 
 I am actively looking for opportunities to grow alongside experienced engineering teams. If you are looking for a dedicated developer who loves writing clean components and digging into documentation, reach out!
 
-  📧 **Email:** [mdshakilislamsagor218@gmail.com](mailto:mdshakilislamsagor218@gmail.com)
+  📧 **Email:** [dev.shakilislam@gmail.com](mailto:dev.shakilislam@gmail.com)
   
   💬 **WhatsApp:** [+880 1763-386000](https://wa.me/8801763386000?text=Hi%20Shakil,%20I%20saw%20your%20GitHub%20profile...)
   
