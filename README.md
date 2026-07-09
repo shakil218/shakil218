@@ -96,23 +96,59 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shakil218&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/shakil218">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakil218&theme=tokyonight" alt="Shakil's GitHub Details" width="98%" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakil218&theme=tokyonight"
+      alt="GitHub Profile Summary"
+      width="98%"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shakil218">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakil218&theme=tokyonight" alt="Languages Per Repo" width="49%" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakil218&theme=tokyonight"
+      alt="Top Languages by Repository"
+      width="49%"
+    />
   </a>
+
   <a href="https://github.com/shakil218">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakil218&theme=tokyonight" alt="Most Commits Per Language" width="49%" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakil218&theme=tokyonight"
+      alt="Most Commit Language"
+      width="49%"
+    />
   </a>
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/shakil218">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shakil218&theme=tokyo-night&hide_border=true"
+      alt="Contribution Graph"
+      width="98%"
+    />
+  </a>
+</p>
+
+---
 ---
 
 ## 📫 Reach Out
